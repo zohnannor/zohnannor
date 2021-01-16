@@ -1,6 +1,8 @@
 # hi
 
 [![Zohnannor's github stats](https://github-readme-stats.vercel.app/api?username=Zohnannor&theme=dark&show_icons=true)](https://github.com/Zohnannor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zohnannor&layout=compact&theme=dark)](https://github.com/Zohnannor)
+
 <details>
   <summary>social</summary>
 
