@@ -18,6 +18,9 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=black)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typeScript&logoColor=white)](https://www.typescriptlang.org/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphQL&logoColor=white)]()
+[![Apollo GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat-square&logo=python&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgreSQL&logoColor=white)]()
 [![React](https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)](https://yarnpkg.com/)
@@ -66,9 +69,6 @@
 <!-- not yet lol -->
 <!-- [![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white)]() -->
 <!-- [![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)]() -->
-<!-- [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphQL&logoColor=white)]() -->
-<!-- [![Apollo GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat-square&logo=python&logoColor=white)]()-->
-<!-- [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgreSQL&logoColor=white)]() -->
 
 <!-- not quite -->
 <!-- [![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=python&logoColor=white)]() -->
