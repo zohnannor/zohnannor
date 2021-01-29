@@ -19,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=black)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphQL&logoColor=white)]()
-[![Apollo GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat-square&logo=python&logoColor=white)]()
+[![Apollo GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat-square&logo=Apollo-GraphQL&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgreSQL&logoColor=white)]()
 [![React](https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
