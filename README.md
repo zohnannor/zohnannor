@@ -36,7 +36,7 @@
 <!-- ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)]() -->
 
 <details>
-    <summary>other sruff</summary>
+    <summary>other stuff</summary>
 
 ### javascript libraries & tools
 
