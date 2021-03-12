@@ -78,7 +78,7 @@
 
 smartphone
 <!-- ![Xiaomi](https://img.shields.io/badge/-Xiaomi-FA6709?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/) -->
-<!-- not yet 😭😭😭 -->
+<!-- finally -->
 [![OnePlus](https://img.shields.io/badge/-OnePlus-F5010C?style=flat-square&logo=onePlus&logoColor=white)](https://www.oneplus.com/)
 
 ### cool websites & companies
