@@ -1,13 +1,13 @@
 # hi
 
-[![Zohnannor's github stats](https://github-readme-stats.vercel.app/api?username=Zohnannor&theme=dark&show_icons=true)](https://github.com/Zohnannor)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zohnannor&layout=compact&theme=dark)](https://github.com/Zohnannor)
+[![zohnannor's github stats](https://github-readme-stats.vercel.app/api?username=zohnannor&theme=dark&show_icons=true)](https://github.com/zohnannor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohnannor&layout=compact&theme=dark)](https://github.com/zohnannor)
 
 <details>
   <summary>social</summary>
 
 [![VK](https://img.shields.io/badge/-VK-4680C2?style=flat-square&logo=vK&logoColor=white)](https://vk.com/zohnannor)
-![@uncannyinfinity](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+[![@uncannyinfinity](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/uncannyinfinity)
 ![Zohnannor#2275](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Zohnannor)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/zohnannor/)
@@ -77,9 +77,9 @@
 <!-- [![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)]() -->
 
 smartphone
-<!-- ![Xiaomi](https://img.shields.io/badge/-Xiaomi-FA6709?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/) -->
+<!-- ![Xiaomi Redmi 4X](https://img.shields.io/badge/-Xiaomi-FA6709?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/) -->
 <!-- finally -->
-[![OnePlus](https://img.shields.io/badge/-OnePlus-F5010C?style=flat-square&logo=onePlus&logoColor=white)](https://www.oneplus.com/)
+[![OnePlus 6](https://img.shields.io/badge/-OnePlus-F5010C?style=flat-square&logo=onePlus&logoColor=white)](https://www.oneplus.com/)
 
 ### cool websites & companies
 
