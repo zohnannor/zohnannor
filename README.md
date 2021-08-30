@@ -11,13 +11,14 @@
 ![Zohnannor#2275](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Zohnannor)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/zohnannor/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youTube&logoColor=white)](https://www.youtube.com/channel/UCgKhN4w73GUyd65fyVUiAVg)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youTube&logoColor=white)](https://www.youtube.com/c/Zohnannor)
 </details>
 
 ## my stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=black)
+[![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=white)](https://rust-lang.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typeScript&logoColor=white)](https://www.typescriptlang.org/)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=black)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphQL&logoColor=white)]()
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat-square&logo=Apollo-GraphQL&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgreSQL&logoColor=white)]()
@@ -26,14 +27,12 @@
 [![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=nPM&logoColor=white)](https://www.npmjs.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](http://python.org/)
-[![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=white)](https://rust-lang.org/)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=hTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=cSS3&logoColor=white)
 <!-- not really -->
 <!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]() -->
 <!-- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)]() -->
-<!-- ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)]() -->
 
 <details>
     <summary>other stuff</summary>
