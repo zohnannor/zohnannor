@@ -30,9 +30,14 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=hTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=cSS3&logoColor=white)
+
+want to learn / learning rn:
+
+[![Zig](https://img.shields.io/badge/-Zig-orange?style=flat-square&logo=Zig&logoColor=white)](https://ziglang.org/)
+[![V](https://img.shields.io/badge/-V-fefefe?style=flat-square&logo=V&logoColor=blue)](https://vlang.io/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-6852DB?style=flat-square&logo=kotlin&logoColor=F6750D)](https://kotlinlang.org/)
 <!-- not really -->
 <!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]() -->
-<!-- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)]() -->
 
 <details>
     <summary>other stuff</summary>
@@ -64,6 +69,8 @@
 [![Linux Mint](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)](https://linuxmint.com/)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powerShell&logoColor=white)
 [![Sublime Text](https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat-square&logo=sublime%2Dtext&logoColor=white)](https://www.sublimetext.com/)
+[![Neovim](https://img.shields.io/badge/-Neovim-116EAD?style=flat-square&logo=neovim&logoColor=5B973B)](https://neovim.io/)
+[![Vim](https://img.shields.io/badge/-Vim-007F00?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
 
 <!-- not yet lol -->
 <!-- [![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white)]() -->
@@ -73,7 +80,6 @@
 <!-- [![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=python&logoColor=white)]() -->
 <!-- [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=python&logoColor=white)]() -->
 <!-- [![Material Design](https://img.shields.io/badge/-Material_Design-757575?style=flat-square&logo=material%2Ddesign&logoColor=white)]() -->
-<!-- [![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)]() -->
 
 smartphone
 <!-- ![Xiaomi Redmi 4X](https://img.shields.io/badge/-Xiaomi-FA6709?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/) -->
