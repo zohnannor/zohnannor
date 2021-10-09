@@ -3,6 +3,9 @@
 [![zohnannor's github stats](https://github-readme-stats.vercel.app/api?username=zohnannor&theme=dark&show_icons=true)](https://github.com/zohnannor)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohnannor&layout=compact&theme=dark)](https://github.com/zohnannor)
 
+![](https://komarev.com/ghpvc/?username=zohnannor&color=blueviolet)
+
+
 <details>
   <summary>social</summary>
 
