@@ -74,7 +74,8 @@ want to learn / learning rn:
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://prettier.io/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
-[![Linux Mint](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)](https://linuxmint.com/)
+<!-- [![Linux Mint](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)](https://linuxmint.com/) -->
+[![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powerShell&logoColor=white)
 [![Sublime Text](https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat-square&logo=sublime%2Dtext&logoColor=white)](https://www.sublimetext.com/)
 [![Neovim](https://img.shields.io/badge/-Neovim-116EAD?style=flat-square&logo=neovim&logoColor=5B973B)](https://neovim.io/)
