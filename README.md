@@ -1,9 +1,10 @@
 # hi
 
 [![zohnannor's github stats](https://github-readme-stats.vercel.app/api?username=zohnannor&theme=dark&show_icons=true)](https://github.com/zohnannor)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohnannor&layout=compact&theme=dark)](https://github.com/zohnannor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohnannor&layout=compact&hide=css,html&langs_count=10&theme=dark)](https://github.com/zohnannor)
 
 ![](https://komarev.com/ghpvc/?username=zohnannor&color=blueviolet)
+[![wakatime](https://wakatime.com/badge/user/9bc1b5cc-879a-4309-9813-62a18622c2a3.svg)](https://wakatime.com/@zohnannor)
 
 
 <details>
@@ -36,6 +37,7 @@
 
 want to learn / learning rn:
 
+[![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=Scala&logoColor=white)](https://www.scala-lang.org/)
 [![Zig](https://img.shields.io/badge/-Zig-orange?style=flat-square&logo=Zig&logoColor=white)](https://ziglang.org/)
 [![V](https://img.shields.io/badge/-V-fefefe?style=flat-square&logo=V&logoColor=blue)](https://vlang.io/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-6852DB?style=flat-square&logo=kotlin&logoColor=F6750D)](https://kotlinlang.org/)
@@ -45,6 +47,8 @@ want to learn / learning rn:
 
 <details>
     <summary>other stuff</summary>
+  
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=zohnannor&theme=dark)](https://wakatime.com/@zohnannor)
 
 ### javascript libraries & tools
 
