@@ -74,7 +74,6 @@ want to learn / learning rn:
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://prettier.io/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
-<!-- [![Linux Mint](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)](https://linuxmint.com/) -->
 [![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powerShell&logoColor=white)
 [![Sublime Text](https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat-square&logo=sublime%2Dtext&logoColor=white)](https://www.sublimetext.com/)
@@ -89,11 +88,6 @@ want to learn / learning rn:
 <!-- [![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=python&logoColor=white)]() -->
 <!-- [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=python&logoColor=white)]() -->
 <!-- [![Material Design](https://img.shields.io/badge/-Material_Design-757575?style=flat-square&logo=material%2Ddesign&logoColor=white)]() -->
-
-smartphone
-<!-- ![Xiaomi Redmi 4X](https://img.shields.io/badge/-Xiaomi-FA6709?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/) -->
-<!-- finally -->
-[![OnePlus 6](https://img.shields.io/badge/-OnePlus-F5010C?style=flat-square&logo=onePlus&logoColor=white)](https://www.oneplus.com/)
 
 ### cool websites & companies
 
@@ -125,5 +119,11 @@ smartphone
 [![PlayStation](https://img.shields.io/badge/-PlayStation-003791?style=flat-square&logo=playStation&logoColor=white)](https://www.playstation.com/en-us/)
 ![PlayStation 4](https://img.shields.io/badge/-PlayStation_4-003791?style=flat-square&logo=playStation%2D4&logoColor=white)
 [![Qualcomm](https://img.shields.io/badge/-Qualcomm-3253DC?style=flat-square&logo=qualcomm&logoColor=white)](https://www.qualcomm.com/)
+
+smartphone
+<!-- ![Xiaomi Redmi 4X](https://img.shields.io/badge/-Xiaomi-FA6709?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/) -->
+<!-- finally -->
+[![OnePlus 6](https://img.shields.io/badge/-OnePlus-F5010C?style=flat-square&logo=onePlus&logoColor=white)](https://www.oneplus.com/)
+
 
 </details>
