@@ -35,6 +35,20 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=hTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=cSS3&logoColor=white)
 
+<details>
+  <summary>favourite web stack</summary>
+
+[![P](https://img.shields.io/badge/-P-336791?style=flat-square&logo=postgreSQL&logoColor=white)]()
+[![R](https://img.shields.io/badge/-R-282C34?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![E](https://img.shields.io/badge/-E-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![G](https://img.shields.io/badge/-G-E10098?style=flat-square&logo=graphQL&logoColor=white)]()
+[![N](https://img.shields.io/badge/-N-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![A](https://img.shields.io/badge/-A-311C87?style=flat-square&logo=Apollo-GraphQL&logoColor=white)]()
+[![N](https://img.shields.io/badge/-N-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![T](https://img.shields.io/badge/-T-3178C6?style=flat-square&logo=typeScript&logoColor=white)](https://www.typescriptlang.org/)
+
+</details>
+
 want to learn / learning rn:
 
 [![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=Scala&logoColor=white)](https://www.scala-lang.org/)
