@@ -56,6 +56,7 @@ want to learn / learning rn:
 [![V](https://img.shields.io/badge/-V-fefefe?style=flat-square&logo=V&logoColor=blue)](https://vlang.io/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-6852DB?style=flat-square&logo=kotlin&logoColor=F6750D)](https://kotlinlang.org/)
 [![Go](https://img.shields.io/badge/-Go-fefefe?style=flat-square&logo=go&logoColor=00ACD7)](https://golang.org/)
+[![Nim](https://img.shields.io/badge/-Nim-171921?style=flat-square&logo=nim&logoColor=FFE953)](https://nim-lang.org/)
 <!-- not really -->
 <!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]() -->
 
