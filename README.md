@@ -54,6 +54,7 @@ want to learn / learning rn:
 [![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=Scala&logoColor=white)](https://www.scala-lang.org/)
 [![Zig](https://img.shields.io/badge/-Zig-orange?style=flat-square&logo=Zig&logoColor=white)](https://ziglang.org/)
 [![V](https://img.shields.io/badge/-V-fefefe?style=flat-square&logo=V&logoColor=blue)](https://vlang.io/)
+[![Haskell](https://img.shields.io/badge/-Haskell-ffffff?style=flat-square&logo=Haskell&logoColor=5E5086)](https://www.haskell.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-6852DB?style=flat-square&logo=kotlin&logoColor=F6750D)](https://kotlinlang.org/)
 [![Go](https://img.shields.io/badge/-Go-fefefe?style=flat-square&logo=go&logoColor=00ACD7)](https://golang.org/)
 [![Nim](https://img.shields.io/badge/-Nim-171921?style=flat-square&logo=nim&logoColor=FFE953)](https://nim-lang.org/)
