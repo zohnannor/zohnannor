@@ -58,6 +58,8 @@ want to learn / learning rn:
 [![Kotlin](https://img.shields.io/badge/-Kotlin-6852DB?style=flat-square&logo=kotlin&logoColor=F6750D)](https://kotlinlang.org/)
 [![Go](https://img.shields.io/badge/-Go-fefefe?style=flat-square&logo=go&logoColor=00ACD7)](https://golang.org/)
 [![Nim](https://img.shields.io/badge/-Nim-171921?style=flat-square&logo=nim&logoColor=FFE953)](https://nim-lang.org/)
+[![Dart](https://img.shields.io/badge/-Dart-1C2834?style=flat-square&logo=dart&logoColor=2CB7F6)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/-Flutter-FFFFFF?style=flat-square&logo=flutter&logoColor=5BC8F8)](https://flutter.dev/)
 <!-- not really -->
 <!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]() -->
 
