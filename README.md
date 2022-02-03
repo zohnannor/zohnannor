@@ -3,8 +3,8 @@
 I'm 20 y.o. unemployed programmer from Russia...  
 Idk what else to say, check out my profile readme!
 
-[![zohnannor's github stats](https://github-readme-stats.vercel.app/api?username=zohnannor&theme=dark&show_icons=true)](https://github.com/zohnannor)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohnannor&layout=compact&hide=css,html&langs_count=10&theme=dark)](https://github.com/zohnannor)
+[![zohnannor's github stats](https://github-readme-stats.vercel.app/api?username=zohnannor&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/zohnannor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohnannor&layout=compact&hide=css,html&langs_count=10&theme=dark&hide_border=true&count_private=true)](https://github.com/zohnannor)
 
 ![](https://komarev.com/ghpvc/?username=zohnannor&color=blueviolet)
 [![wakatime](https://wakatime.com/badge/user/9bc1b5cc-879a-4309-9813-62a18622c2a3.svg)](https://wakatime.com/@zohnannor)
@@ -69,8 +69,6 @@ want to learn / learning rn:
 <details>
     <summary>other stuff</summary>
   
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=zohnannor&theme=dark)](https://wakatime.com/@zohnannor)
-
 ### javascript libraries & tools
 
 [![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white)](https://babeljs.io/)
@@ -145,6 +143,10 @@ smartphone
 <!-- ![Xiaomi Redmi 4X](https://img.shields.io/badge/-Xiaomi-FA6709?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/) -->
 <!-- finally -->
 [![OnePlus 6](https://img.shields.io/badge/-OnePlus-F5010C?style=flat-square&logo=onePlus&logoColor=white)](https://www.oneplus.com/)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zohnannor&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=zohnannor&theme=dark)](https://wakatime.com/@zohnannor)  
+[![zohnannor's github activity graph](https://activity-graph.herokuapp.com/graph?username=zohnannor&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 </details>
