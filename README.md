@@ -1,5 +1,8 @@
 # hi
 
+I'm 20 y.o. unemployed programmer from Russa...
+Idk what else to say, check out my profile readme!
+
 [![zohnannor's github stats](https://github-readme-stats.vercel.app/api?username=zohnannor&theme=dark&show_icons=true)](https://github.com/zohnannor)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohnannor&layout=compact&hide=css,html&langs_count=10&theme=dark)](https://github.com/zohnannor)
 
@@ -12,7 +15,7 @@
 
 [![VK](https://img.shields.io/badge/-VK-4680C2?style=flat-square&logo=vK&logoColor=white)](https://vk.com/zohnannor)
 [![@uncannyinfinity](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/uncannyinfinity)
-![Zohnannor#2275](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
+[![Zohnannor#2275](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/210111827869171712)
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Zohnannor)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/zohnannor/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youTube&logoColor=white)](https://www.youtube.com/c/Zohnannor)
