@@ -1,6 +1,6 @@
 # hi
 
-I'm 20 y.o. unemployed programmer from Russa...
+I'm 20 y.o. unemployed programmer from Russia...  
 Idk what else to say, check out my profile readme!
 
 [![zohnannor's github stats](https://github-readme-stats.vercel.app/api?username=zohnannor&theme=dark&show_icons=true)](https://github.com/zohnannor)
