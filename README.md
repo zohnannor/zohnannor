@@ -63,6 +63,8 @@ want to learn / learning rn:
 [![Nim](https://img.shields.io/badge/-Nim-171921?style=flat-square&logo=nim&logoColor=FFE953)](https://nim-lang.org/)
 [![Dart](https://img.shields.io/badge/-Dart-1C2834?style=flat-square&logo=dart&logoColor=2CB7F6)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/-Flutter-FFFFFF?style=flat-square&logo=flutter&logoColor=5BC8F8)](https://flutter.dev/)
+[![D](https://img.shields.io/badge/-D-FFFFFF?style=flat-square&logo=D&logoColor=5BC8F8)](https://dlang.org/)
+
 <!-- not really -->
 <!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]() -->
 
@@ -94,6 +96,7 @@ want to learn / learning rn:
 [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://prettier.io/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
 [![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
+[![dwm](https://img.shields.io/badge/-dwm-1177AA?style=flat-square&logo=dwm&logoColor=white)](https://dwm.suckless.org/)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powerShell&logoColor=white)
 [![Sublime Text](https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat-square&logo=sublime%2Dtext&logoColor=white)](https://www.sublimetext.com/)
 [![Neovim](https://img.shields.io/badge/-Neovim-116EAD?style=flat-square&logo=neovim&logoColor=5B973B)](https://neovim.io/)
