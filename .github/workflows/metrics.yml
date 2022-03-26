@@ -27,7 +27,7 @@ jobs:
           user: zohnannor
           template: classic
           base: header, activity, community, repositories, metadata
-          nfig_timezone: Europe/Moscow
+          config_timezone: Europe/Moscow
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
