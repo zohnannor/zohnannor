@@ -152,5 +152,13 @@ smartphone
 [![zohnannor's github activity graph](https://activity-graph.herokuapp.com/graph?username=zohnannor&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+<p align="center">
+	<a href="https://profile.codersrank.io/user/zohnannor#Tech%20Skills">
+		<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=zohnannor&labels=true&legend=true&tooltip=true&branding=false&show-other-skills=true&bg=0D1117">
+	</a>
+</p>
+
+![](./github-metrics.svg)
 
 </details>
