@@ -3,8 +3,8 @@
 I'm 21 y.o. programmer from Russia...  
 Idk what else to say, check out my profile readme!
 
-[![zohnannor's github stats](https://github-readme-stats.vercel.app/api?username=zohnannor&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/zohnannor)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohnannor&layout=compact&hide=css,html&langs_count=10&theme=dark&hide_border=true&count_private=true)](https://github.com/zohnannor)
+[![zohnannor's github stats](https://readme-stats.clckblog.space/api?username=zohnannor&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/zohnannor)
+[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=zohnannor&layout=compact&hide=css,html&langs_count=10&theme=dark&hide_border=true&count_private=true)](https://github.com/zohnannor)
 
 ![](https://komarev.com/ghpvc/?username=zohnannor&color=blueviolet)
 [![wakatime](https://wakatime.com/badge/user/9bc1b5cc-879a-4309-9813-62a18622c2a3.svg)](https://wakatime.com/@zohnannor)
