@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3734" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4192" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.blue{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.number{color:#2777aa}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.track .infos{flex-grow:1}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.number{color:#2777aa}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 24 users
+                            Followed by 23 users
                         </div>
                     </section>
                     <section>
@@ -31,17 +31,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    2.13 GB used
+                                    2.14 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    25 views in last two weeks
+                                    13 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -545,7 +545,7 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.94370528133754" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.94370528133754" height="8" fill="#cb171e"/>
                     <rect mask="url(#languages-bar)" x="383.94370528133754" y="0" width="76.05629471866247" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
@@ -553,7 +553,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#cb171e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 YAML
                             </div>
@@ -581,13 +581,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 334kb of code in 104 edited files across 51 commits over last 28 days</small>
+                <small>estimation from 615kb of code in 519 edited files across 99 commits over last 23 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="399.62218141025517" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="399.62218141025517" y="0" width="60.37781858974481" height="8" fill="#9c4221"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -599,9 +600,22 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>11.6k lines</div>
-                                <div>331 kB</div>
-                                <div>100%</div>
+                                <div>14.2k lines</div>
+                                <div>454 kB</div>
+                                <div>86.87%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#9c4221" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                TOML
+                            </div>
+                            <small>
+                                <div>2.17k lines</div>
+                                <div>68.6 kB</div>
+                                <div>13.13%</div>
                             </small>
                         </div>
                     </section>
@@ -722,14 +736,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 16 commits)</small>
+                    <small class="h-details">(computed from last 19 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 28.6 characters per line of code written</li>
+                        <li>Has approximately 30.1 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
-                        <li>Mostly active on Thursday</li>
+                        <li>Mostly active on Saturday</li>
                     </ul>
                 </div>
             </section>
@@ -798,43 +812,43 @@
                             11
                         </div>
                         <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             12
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             13
                         </div>
                         <div class="entry">
-                            <span class="value">7</span>
+                            <span class="value">5</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             14
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             15
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             16
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             18
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             19
                         </div>
                         <div class="entry">
@@ -843,13 +857,13 @@
                             20
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             21
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             22
                         </div>
                         <div class="entry">
@@ -884,8 +898,8 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">6</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">4</span>
+                                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -894,8 +908,8 @@
                                 Fri
                             </div>
                             <div class="entry">
-                                <span class="value">1</span>
-                                <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -905,17 +919,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 79.2617371418322%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">99%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.1296204953440055%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
+                                <div class="bar" style="width: 59.04976236752415%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">74%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.02630674259749189%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.3170814477801214%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">HTML</span>
+                                <div class="bar" style="width: 0.3125350116177681%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Dockerfile</span>
+                                <div class="bar" style="width: 0.1397704374483452%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2926,6 +2945,16 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2947,7 +2976,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zesterer/ariadne</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fancy diagnostics &amp; error reporting crate</div>
@@ -2968,13 +2997,13 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        1.19k
+                                        1.20k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        38
+                                        39
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2987,7 +3016,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        23
+                                        24
                                     </div>
                                 </div>
                             </section>
@@ -3000,7 +3029,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leptos-rs/leptos</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build fast web applications with Rust.</div>
@@ -3021,26 +3050,26 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        5.70k
+                                        5.72k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        144
+                                        145
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        183
+                                        185
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        282
+                                        288
                                     </div>
                                 </div>
                             </section>
@@ -3053,7 +3082,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>librarianofbabel/libraryofbabel.info-algo</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Invertible multi-precision pseudo random number generator example</div>
@@ -3100,7 +3129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MCHPR/MCHPRS</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A multithreaded Minecraft server built for redstone.</div>
@@ -3153,7 +3182,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>uazu/qcell</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Statically-checked alternatives to RefCell and RwLock</div>
@@ -3206,7 +3235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>launchbadge/realworld-axum-sqlx</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust implementation of the Realworld demo app spec using Axum and SQLx.</div>
@@ -3259,7 +3288,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zesterer/chumsky</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A parser library for humans with powerful error recovery.</div>
@@ -3280,13 +3309,13 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        2.47k
+                                        2.48k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        89
+                                        90
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3312,7 +3341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matthieu-m/ghost-cell</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An implementation of Joshua Yanovski's Ghost Cell paper.</div>
@@ -3365,7 +3394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EVaillant/lockfree-object-pool</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Object Pool LockFree in Rust</div>
@@ -3418,7 +3447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cucumber-rs/cucumber</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.</div>
@@ -3439,13 +3468,13 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        406
+                                        408
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        56
+                                        57
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3480,18 +3509,8 @@
                             <div class="entry">
                                 <span class="value">65</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                27
-                                <div class="bottom">Jan.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                28
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 29
+                                <div class="bottom">Jan.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -3548,6 +3567,16 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 9
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                10
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                11
                             </div>
                         </div>
                     </section>
@@ -3557,18 +3586,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                27
-                                <div class="bottom">Jan.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                28
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 29
+                                <div class="bottom">Jan.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -3625,6 +3644,16 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 9
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                10
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                11
                             </div>
                         </div>
                     </section>
@@ -3635,12 +3664,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    24 followers
+                    23 followers
                 </h2>
                 <div class="row">
                     <section class="people">
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAABDUlEQVR4nGP4TwPAMGoodvD31v/f2wigP1dJDNMf9f8/MRBA33MHiaEfh4qh9y8zLJyBxayJXQzvH5Nh6J9T/79FnTrAkBSLxVAPV4YnN8kw9KsH4Vii1NB+xf/16iA0Xxq76aQZ+pjl/ySF/41qVDX0FdP/AwIIdI4bJPgRjMg39BM2hGKoEGbIMmA39Fva/8+i/z8w/H/NhB3BDf2iRWLif8by/yQfdvSGiVxDPzGANGOaiBwU5Bj6EVsIUGroJ4KI+Ij6T7yhYPRr1f9/H4gw9H3j/4es/59w/v+sgkDvpEGCD1n/f1RAEf+s8v/PLSIM3T8ZlIUmuqII3joIzVpvHuDU+H+0iv5PfQAAcGgRZpqJCJEAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBAX/xAAmEAACAQQABgIDAQAAAAAAAAABAwIABAURBgcSIUFREzEjYaFx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAQX/xAAbEQACAwEBAQAAAAAAAAAAAAABAwACESFBMf/aAAwDAQACEQMRAD8AbdLvPc1Mbjsiy0tLRt6FS6GNiwQhsfevdH13GcrV8UnTCsiJ9HXapmxVoY2MCwr+VjDBkZKP4xsjf78dv99VlM+mdZhtoAlF8N52y4ixcL7HSJWT0SjIamufo11KUnI2RTkOIbMM61QKpx7a9+KbdDcYeQ1k2GmYctkrXE2U7i+uEpgAdFsujZ9CpdlknBrZMVBhYwtHUPqZ79qMOcd053GzksmSpCVhcPA3ASP9oFkO1VqUDXT7JHNItzyMDknmrTH569VkbiCjerAWxh0DIH6343un1UiRiNVTfLNrLrgfEsfMyn8Zhs+oyIH8FLavsYhpzJ//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
@@ -3659,6 +3687,7 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCBwgE/8QALBAAAQMCBAMHBQAAAAAAAAAAAQIDBAARBQYSIRMUMQcjQVFhkaEiMlNx0f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAb/xAAgEQACAQQBBQAAAAAAAAAAAAABAwACBAURkRITUWHR/9oADAMBAAIRAxEAPwDTK47JFtIodLYjAkagDa9tVQVONZi7mZjGI4tjstc2TJfebTxXnUBkBa06EBI8hsfilkxi1lh0Jfk+Kkm7aiQfI7ULcinV959qUuxxyU1huLw3pz0yFGkIRH4xutsFAUUX8RuKeFKF6KBUOk6gBebJ7abmGhz0SF1W2YTI56QqLhV2HneMGt+7N7m1h4m5ptiqIjJVe5t1NdCDqH1AHcVn35wtp1SsDmai1wVNvWaiwniCMo5oiYPhC4jkZ9clbpde0269PgAUxIzZGcTqTHk2/Q/tCG1a3FJWEqHqKny7P4Ue1W22ctisd1R36MhusDcBpKWDR8j5P//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAAT/xAAwEAABAwMCBAMGBwAAAAAAAAABAgMEAAUREiEGEzFRFEGBBxUiI2FxUnKRobHB4f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAHBEBAAICAwEAAAAAAAAAAAAAAQARAgMSEyEx/9oADAMBAAIRAxEAPwCb+zGOPeEySRs01j1J/wANN5dggzHQ7KiIKwNA2IwOv90b4SZbicLS3erjjoLg7DbH7HPrSllMqdJb8EAthwkc1Ks6FjJGR2OwzU2duXku10YgwZxZwwiDH8RBOWs/Mbzkt/XPahsZJShQP4jVkvkF+2NvrmkPNvZQEJ8xoJOc9txUiaTu5+c07UqexO0B8jOySg1w44p8fG84G9PdAAGf0Feuy3pyDlUROJCBuBjDyB1H0I6+lDbdNfOppS8oSVLAPetSyvKEmM5sV6up+9c4/ZnOqqI0XmRf5T4kK5bfJWhsKwNAJGfOseXZUW6Y8w7yichYKzvgpBrrMNN5ZCSQOaP5qgXrh+JMuLjz63i4oDJBHb7UK8GFidhbP//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcDBggE/8QALhAAAQMCBQMBBwUAAAAAAAAAAQIDBAURAAYHEiExQWEiCBMUMjNRcSVCYoHS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EABsRAAIDAQEBAAAAAAAAAAAAAAABAhEhEgMx/9oADAMBAAIRAxEAPwAPrjSZdEgIRS4UZ7LNQQhIf+DaakJWDcgLCbgEI7gd/N0UISXn/dsNgb17Ugkfe3XGgPahhmkzosmPU3FJlfVhuO35F/WB+OCT3Pk4i0Sl6eTsru0/NsqKmXJJQ5FmpCEIWOjjblhtJAH7r3w7KtE0HO3fwTr+U5dMTLfqcRxtqOkhZFlWVcoQkEGxurr4/OLnRdNM81ymR5sMoajqQEoHxQauAPmtbv1v5wU1oFRqud4dBy3FMSiNxmlwWQUtpeBuQ4emzkEC9jYX74loOWdT8sU1ECO7HYZuXENu1DkA/baq1uMBxvUHtLG9GRqFpFUaizLRQW6W2w6lPoecccdasB6G1ngDgDnsAOAMZlmUWrQKpJp0umzGpcf6jJa3FPNr8Dp56Y0XC1jzEspC49MUPLS/945q5qhVFI3OUqiO71lpYcjKUFIPzJN19DYXxm6GNV8K3TMozpk+gmFS50WA0EOvvTHWnXnSOoF+W/sEElHfjm7rOVMiJP6jFp70k8qcnyD71fn1Kvb+sJ+i57qERnbFhwGk3ca2oS4BsUtRtbfbjaAD1AGDdG1ir6Ym0waOrabAmOu/QfzwyUucRL4c+zcpLT//2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACYklEQVR4nO2SMU/qUBTHbzAttKXYxARSa0IbMZYGS6iNbeXSa20thkg7GEkUhrKwEHXTgYXJxMXFgY3vwMLgB3AhgW/CF8CEl0ji4Esehef23m+7Of/87j3nHgD+CWKxWKgcQRC+74eUep63s7OzPGdZVqlUCik1DKNcLi8JRSIR27ZPTk5CShFCEMIlQ4jH47quF4vFkFJJkhRF2d7e/lMIx3Fd103TDP9SVVUJgliegxDiOL44chx3fn6uqqosy5IkFQoFTdMwDAMAkCSpaRpCaPnlhUKB47hqtQoAEAQBIbRQfMEwjGVZqVTK932e57PZbKimHMdhGAYhFATBxsbGtypN05VKpVwuYxi2/Ou/SKfTuq4DAFiW/X0TFhPHMKxarSaTSRAejuM8zzNNM5PJfCvRNG3b9tXVlaqqYFUghEEQcBxHEEQsFuN5XhAEDMM2Nzdd161UKrlcbmWp4ziPj4+vr6+TyWQ0GomiaJrm+/v7cDhstVq3t7csy64sFUXx+vr64+NjPp+/vb3l83nP82az2Xw+7/f7g8FgZSP4lLqu+/Dw0G63KYq6u7vb3983DOPl5eXy8rLZbDIMs7I0Go0eHx9vbW3hOH50dDSdTp+enrLZ7N7eniRJsiyv81IAwO7u7vPzc6fToSiqVqsdHh6mUqnxeOx53ppG8LmwiqL0er1Go1EsFhFC7Xa72+2Kori+lCRJ3/cZhvF9v16v39/fn56eHhwcrN/7Ap7nS6VSIpEQBIEgCEEQIISRSAT8Jel0+uzs7OLi4ubmRtM08FNQFEXTdDQa/THjf8CK/AIq+IZ6OVWVdgAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -3707,103 +3736,1044 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">zesterer/ariadne</span>
+                                        Pushed 18 commits in
+                                        <span class="repo">zohnannor/rustup</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Feb 2023, 02:49:22</div>
+                                <div class="details">
+                                    <div>on branch <span class="code">bump-clap</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9a70505</div>
+                                        <div class="message">Merge branch 'master' into bump-clap</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Feb 2023, 22:39:59</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
+                                        Pushed 8 commits in
+                                        <span class="repo">zohnannor/rustup</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bb88d62</div>
+                                        <div class="message">Merge pull request #3205 from hi-rustin/rustin-patch-cli-ui
+
+Add test for cli ui</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0facdf6</div>
+                                        <div class="message">Fix windows tests
+
+Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8332528</div>
+                                        <div class="message">Add test for cli ui
+
+Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1c7a81</div>
+                                        <div class="message">Merge pull request #3199 from hi-rustin/rustin-patch-make-clippy-happy
+
+Make clippy happy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b39dc6</div>
+                                        <div class="message">Merge pull request #3175 from hi-rustin/rustin-patch-clippy
+
+Lint the codebase with beta clippy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3bd0ee</div>
+                                        <div class="message">Use beta and give more explanation
+
+Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19213c8</div>
+                                        <div class="message">Make clippy::needless-lifetimes happy
+
+Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3db8da6</div>
+                                        <div class="message">Make clippy::needless-borrow happy
+
+Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Feb 2023, 21:55:20</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 95 commits in
+                                        <span class="repo">zohnannor/rustup</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">bump-clap</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e0ffef9</div>
+                                        <div class="message">Merge pull request #3127 from noritada/fix/doc-command-rustdoc-opt-description-improvements
+
+Improve a help message for `rustup doc --rustdoc`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f52d5c</div>
+                                        <div class="message">Merge pull request #3126 from illume/typo
+
+Fix a typo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7606c1b</div>
+                                        <div class="message">Improve a help message for `doc --rustdoc`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a223e5a</div>
+                                        <div class="message">Merge pull request #3067 from nicholasbishop/bishop-specify-additive
+
+Add details of each setting in the toolchain file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4fde887</div>
+                                        <div class="message">Fix typo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3331f34</div>
+                                        <div class="message">Merge pull request #3096 from hi-rustin/rustin-patch-clippy
+
+Clippy satisfying changes - unneeded &amp; and &amp;*.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b3d5325</div>
+                                        <div class="message">Merge pull request #3089 from darkyshiny/curl-resume-support
+
+Add automatic resume flag when retrying download with curl</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7395b8</div>
+                                        <div class="message">Use auto deref
+
+Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe4bec0</div>
+                                        <div class="message">Add automatic resume flag when retrying download with curl</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db9afe1</div>
+                                        <div class="message">Merge pull request #3091 from x3ro/add-proxies-to-terminology
+
+Add "Proxy" to terminology page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#000b15e</div>
+                                        <div class="message">Add "Proxy" to terminology page
+
+Fixes #3086</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d35fe0</div>
+                                        <div class="message">Remove needless borrow
+
+Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#732feb8</div>
+                                        <div class="message">Merge pull request #3073 from LucioFranco/lucio/home-update
+
+Update home usage to new env fn</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f784552</div>
+                                        <div class="message">Update to home 0.5.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53b31bc</div>
+                                        <div class="message">Update code to use `home::env as home` as suggested</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7bfbd3b</div>
+                                        <div class="message">Add details of each setting in the toolchain file
+
+The format of the new section is modeled after the cargo docs, for example:
+https://doc.rust-lang.org/cargo/reference/profiles.html#profile-settings
+
+This is mostly a reorganization of the existing content to make it
+easier to scan for relevant details, but a few new details have also
+been added:
+
+1. For `channel`, the format is now explained in the same format as in
+   concepts/toolchains.md, but with the more limited form that
+   `rust-toolchain.toml` accepts. This is based on the text that was
+   here previously; I haven't verified if the code is actually this
+   strict.
+2. The `profile` section mentions that the default profile is not
+   necessarily the profile named `default`, which is subtle detail that
+   can be confusing.
+3. The `components` section notes that the list is additive with the
+   profile's list of components.
+4. The `targets` field is now documented, previously it wasn't mentioned
+   other than to say it's ignored with `path`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b7e263</div>
+                                        <div class="message">Update home usage to new env fn</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b82301</div>
+                                        <div class="message">Bump pulldown-cmark version to 0.9
+
+Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3fa3a9c</div>
+                                        <div class="message">Apply suggestions from code review
+
+Co-authored-by: Eric Huss &lt;eric@huss.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15609c3</div>
+                                        <div class="message">Improve Windows MSVC install instructions</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Feb 2023, 15:12:24</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">zohnannor/rustup</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">bump-clap</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4a62a92</div>
+                                        <div class="message">Somewhat prepare for `trycmd` ui testing</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9fdca07</div>
+                                        <div class="message">Squashed commit of the following:
+
+commit 80cbc43a04f649396afb8f2d80768ccc5a2771e9
+Merge: 52b9e6d9 b21ce08c
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Thu Feb 9 22:09:47 2023 +0800
+
+    Merge pull request #3201 from rust-lang/renovate/anyhow-1.x
+
+    Update Rust crate anyhow to 1.0.69
+
+commit b21ce08c055346598e2d52a2a1bdd6ff7af21594
+Author: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
+Date:   Wed Feb 8 05:18:17 2023 +0000
+
+    Update Rust crate anyhow to 1.0.69
+
+commit 52b9e6d95343966a8c6244538d21023f41380cba
+Merge: b842e57b 6372b330
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Wed Feb 8 11:38:25 2023 +0800
+
+    Merge pull request #3194 from ehuss/chrono-deprecated
+
+    Fix chrono deprecation warnings
+
+commit 6372b330e9bea300053cb1bbf57edf2b7d62f860
+Author: Eric Huss &lt;eric@huss.org&gt;
+Date:   Sat Feb 4 09:04:57 2023 -0800
+
+    Fix chrono deprecation warnings
+
+commit b842e57b07755d435e82c34edfc75a1d9cc070a0
+Merge: a3f1a13f a47ebaa2
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Wed Feb 8 09:56:05 2023 +0800
+
+    Merge pull request #3198 from ilya-bobyr/clippy-warinings-uninlined_format_args
+
+    clippy::uninlined_format_args: Apply clippy suggestions
+
+commit a47ebaa246e9c2c3a17a2fff6b37ef94274658e8
+Author: Illia Bobyr &lt;illia.bobyr@gmail.com&gt;
+Date:   Tue Feb 7 14:04:44 2023 -0800
+
+    clippy::uninlined_format_args: Apply clippy suggestions
+
+    `cargo clippy` now suggests that one uses lined arguments for `format!`
+    and friends, when possible:
+
+    https://rust-lang.github.io/rust-clippy/master/index.html#uninlined_format_args
+
+    &gt; Added in: 1.66.0`
+
+    `CONTRIBUTING.md` suggests one runs this, before publishing a change:
+    ```bash
+    cargo clippy --all --all-targets --all-features -- -D warnings`
+    ```
+    But, at the moment, this command generated more than a thousand warnings
+    for me on `master`.
+
+    This change is just `cargo clippy --fix`, with flags to only show
+    `clippy::uninlined_format_args`, followed by `cargo fmt`.
+
+commit a3f1a13f0ab952434368248e5f77083c55d6a123
+Merge: 58dd2cde ed6337de
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Tue Feb 7 08:11:30 2023 +0100
+
+    Merge pull request #3193 from hi-rustin/rustin-patch-centos
+
+    Bump the centos image version
+
+commit ed6337deff4de9d7b7daeca22997a4049063eec3
+Author: hi-rustin &lt;rustin.liu@gmail.com&gt;
+Date:   Sat Feb 4 11:50:04 2023 +0800
+
+    Bump the centos image version
+
+    Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;
+
+commit 58dd2cde6a5cfca761cf23266c04862001b09daa
+Merge: d4e1f170 cce10c66
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Sat Feb 4 09:08:05 2023 +0100
+
+    Merge pull request #3190 from rust-lang/stable
+
+    Merge stable back
+
+commit cce10c6673b09285e37065ee08eebc535b86c519
+Author: hi-rustin &lt;rustin.liu@gmail.com&gt;
+Date:   Sat Feb 4 10:58:38 2023 +0800
+
+    Remove temporary fix for the docker ci
+
+    Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;
+
+commit 17db695f1111fb78f9c0d1b83da0b34723fdf04d
+Author: Pietro Albini &lt;pietro.albini@ferrous-systems.com&gt;
+Date:   Wed Feb 1 17:24:27 2023 +0100
+
+    properly fix mips64el
+
+commit fae52a19782de27e4cfdc08622104d1fb45ff182
+Author: Pietro Albini &lt;pietro.albini@ferrous-systems.com&gt;
+Date:   Wed Feb 1 17:20:38 2023 +0100
+
+    update compiler paths in docker images
+
+commit ac2594fc21f410942cbe220c6d7cfb6264b93a36
+Merge: bb60b1e8 19801fc8
+Author: Pietro Albini &lt;pietro.albini@ferrous-systems.com&gt;
+Date:   Wed Feb 1 16:41:54 2023 +0100
+
+    Merge pull request #3186 from rust-lang/pa-sha1
+
+    Accept SHA1 keys and release 1.25.2
+
+commit 19801fc82a9083c1de394a968b41d37ce84c1d0f
+Author: Pietro Albini &lt;pietro.albini@ferrous-systems.com&gt;
+Date:   Wed Feb 1 16:21:03 2023 +0100
+
+    temporary fix for the docker ci
+
+commit 4cfd87263ba7b21ab257edc29f3242054fbd24a8
+Author: hi-rustin &lt;rustin.liu@gmail.com&gt;
+Date:   Thu Jan 12 09:55:05 2023 +0800
+
+    Add -x and enable SC1090
+
+    Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;
+
+commit be04c3900d2231258617dd25e083fcd7a22c5be9
+Author: hi-rustin &lt;rustin.liu@gmail.com&gt;
+Date:   Wed Dec 7 08:59:34 2022 +0800
+
+    Fix shell check warning
+
+    Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;
+
+commit 687a407017f9c33e8c5fc88c9b7d910fd701cdda
+Author: Pietro Albini &lt;pietro.albini@ferrous-systems.com&gt;
+Date:   Wed Feb 1 15:06:19 2023 +0100
+
+    update version in install script
+
+commit 8c4dad73d15f28dde2439979f5abe634de6ccf1d
+Author: Pietro Albini &lt;pietro.albini@ferrous-systems.com&gt;
+Date:   Wed Feb 1 15:05:52 2023 +0100
+
+    update version to 1.25.2
+
+commit 0d321dbdf27a28d404a025132093b71a52ec58a1
+Author: Pietro Albini &lt;pietro.albini@ferrous-systems.com&gt;
+Date:   Wed Feb 1 15:04:24 2023 +0100
+
+    add changelog entry
+
+commit d9769b80697768081a21dd36c693d2b81b78f89b
+Author: Pietro Albini &lt;pietro.albini@ferrous-systems.com&gt;
+Date:   Wed Feb 1 14:56:59 2023 +0100
+
+    allow sha1 signing keys without a cutoff date
+
+commit d4e1f1708ac4044e5c1a7cd7c032741370221e17
+Merge: 73df8072 f2b51a89
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Mon Jan 30 09:34:52 2023 +0800
+
+    Merge pull request #3179 from rust-lang/renovate/lock-file-maintenance
+
+    Lock file maintenance
+
+commit 73df80729e02dbc45dbc8f64ff3c45197340c532
+Merge: 0389dc61 c3b84fc3
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Sat Jan 28 17:12:58 2023 +0800
+
+    Merge pull request #3133 from chansuke/hotfix/fix-clippy
+
+    Fix clippy error
+
+commit c3b84fc3a7d705dfe60a09e10b7f8a1a44363f11
+Author: hi-rustin &lt;rustin.liu@gmail.com&gt;
+Date:   Sat Jan 28 16:23:18 2023 +0800
+
+    Rename from EventResult to DownloadCallback
+
+    Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;
+
+commit 0389dc6154a085b1da757eb190a11858a65d72f7
+Merge: a24d51a3 c174ef62
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Fri Jan 27 10:47:28 2023 +0800
+
+    Merge pull request #3181 from tshepang/patch-1
+
+    allow to quickly edit a page directly on github
+
+commit 2890305fee1b064a3f126484ae2cda663efa27c6
+Author: chansuke &lt;moonset20@gmail.com&gt;
+Date:   Thu Jan 26 22:47:30 2023 +0900
+
+    Fix `type_complexity` error
+
+commit c174ef6256a570a4d6b9973cca6032f2ec864ed1
+Author: Tshepang Mbambo &lt;tshepang@gmail.com&gt;
+Date:   Wed Jan 25 23:20:33 2023 +0200
+
+    allow to quickly edit a page directly on github
+
+commit a24d51a36a7785dc3118d414552dcdf4e4e9c237
+Merge: a942c343 47028df9
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Thu Jan 26 22:04:20 2023 +0800
+
+    Merge pull request #3180 from ehuss/vs-install-highlight
+
+    Update MSVC installation image highlights
+
+commit fef6d871166923cf53e7dc6c25c364697a713f1d
+Author: chansuke &lt;moonset20@gmail.com&gt;
+Date:   Fri Jan 20 21:49:26 2023 +0900
+
+    Fix `derive_partial_eq_without_eq` clippy error
+
+commit 47028df92455b293872208b1e3009019b94ee821
+Author: Eric Huss &lt;eric@huss.org&gt;
+Date:   Mon Jan 23 11:59:49 2023 -0800
+
+    Update MSVC installation image highlights
+
+commit a942c343619d9f04e0f2d809d71f2d1eadb4175c
+Merge: 46973d6b fd908782
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Sun Jan 22 20:14:47 2023 +0100
+
+    Merge pull request #3176 from scop/spelling
+
+    Spelling and grammar fixes
+
+commit fd908782ad2ea28fc5d57ea10f0b23dd2076042b
+Author: Ville Skyttä &lt;ville.skytta@iki.fi&gt;
+Date:   Sun Jan 22 12:46:58 2023 +0200
+
+    Spelling and grammar fixes
+
+commit 46973d6bdd83765fb256db2cbe6232cd78ea6e4b
+Merge: 060b8f9e c97e02a9
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Fri Jan 20 20:42:20 2023 +0100
+
+    Merge pull request #2849 from chansuke/issue-2848
+
+    Fix duplicated PATH entries
+
+commit c97e02a9052de26e13f6b0e60dd71567e76208f4
+Author: chansuke &lt;moonset20@gmail.com&gt;
+Date:   Sat Sep 18 14:14:23 2021 +0900
+
+    Add type parameter to prepend_path
+
+commit fc5cc4bab671d8b1caa686265672f7d2eb859aee
+Author: chansuke &lt;moonset20@gmail.com&gt;
+Date:   Tue Feb 8 02:53:34 2022 +0900
+
+    Remove space from comment
+
+commit 067ea0fe5274514ee6182d896001e74d9c209aa0
+Author: Dustin Martin &lt;dustin@dmartin.io&gt;
+Date:   Sun Feb 6 22:35:49 2022 -0800
+
+    Fix prepend_unique_path test on Windows
+
+commit 2c4828efa52dc9d7f271409ad29641680a76e1e4
+Author: chansuke &lt;moonset20@gmail.com&gt;
+Date:   Sat Sep 18 14:14:23 2021 +0900
+
+    Fix duplicated PATH entries
+
+    - Unit test append_path and prepend_path
+    - Order is preserved, second and above instances of a given entry are
+      dropped.
+
+    Co-Authored-By: Robert Collins &lt;robertc@robertcollins.net&gt;
+    Signed-off-by: Robert Collins &lt;robertc@robertcollins.net&gt;
+
+commit f2b51a89cef490fe695f3d82ee1f1a39c826c809
+Author: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
+Date:   Tue Jan 17 22:18:51 2023 +0000
+
+    chore(deps): lock file maintenance
+
+commit 060b8f9e3f5a8a810b49108aa57cee2e784ee104
+Merge: 964753f0 fe92022c
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Tue Jan 17 22:56:11 2023 +0100
+
+    Merge pull request #3054 from MoSal/master
+
+    doc: Recommend tracking Cargo.lock with rust-toolchain files
+
+commit 964753f0aaa360c2911d91b309ddb886cf782e09
+Merge: acb85667 6e3a8b3d
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Tue Jan 17 22:53:33 2023 +0100
+
+    Merge pull request #3160 from rbtcollins/test-renovate-branches
+
+    Test Renovate branches directly
+
+commit acb85667015ee43fd8f33ddeaf12f9d353fc6b51
+Merge: 124cb85a b75b799e
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Tue Jan 17 22:50:23 2023 +0100
+
+    Merge pull request #3167 from ChrisDenton/install-msvc
+
+    Improve msvc install instructions
+
+commit b75b799e5bdd72a6b25229e5857924e7d887d814
+Author: Chris Denton &lt;chris@chrisdenton.dev&gt;
+Date:   Tue Jan 17 02:45:48 2023 +0000
+
+    Expand on when VS Community isn't appropriate
+
+commit 967af8d66e8fe6013dd34ecec7880643a3c10127
+Author: Chris Denton &lt;chris@chrisdenton.dev&gt;
+Date:   Tue Jan 17 02:05:28 2023 +0000
+
+    Highlight relevant area of images
+
+commit fe92022c173f6098230d53d9b92fdc958fbcf400
+Author: Mohammad AlSaleh &lt;CE.Mohammad.AlSaleh@gmail.com&gt;
+Date:   Tue Aug 2 06:20:32 2022 +0300
+
+    doc: Recommend tracking Cargo.lock with rust-toolchain
+
+     .. if pinning to a specific version.
+
+     Current use-case where not doing this causes issues:
+
+     ```
+     cargo new ttt
+     cd ttt
+     sed -i '/edition/s;2021;2018;' Cargo.toml
+     echo 'criterion = "0.3"' &gt;&gt; Cargo.toml
+     echo '1.55' &gt; rust-toolchain
+     cargo check
+     ```
+
+     Issue triggered by an indirect dependency requiring a newer edition
+     than what the pinned toolchain supports.
+
+    Signed-off-by: Mohammad AlSaleh &lt;CE.Mohammad.AlSaleh@gmail.com&gt;
+
+commit 124cb85a4947a870379c89b1021342f857513216
+Merge: 3fddd258 74724af8
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Mon Jan 16 06:30:04 2023 +0100
+
+    Merge pull request #3159 from rust-lang/renovate/lock-file-maintenance
+
+    Lock file maintenance
+
+commit 6e3a8b3d7b65d0e214519e0437aca83dbf84a927
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Mon Jan 16 10:57:47 2023 +1300
+
+    Test Renovate branches directly
+
+    - Permit tests to run on branches matching renovate/*, configured the
+      same as PR tests. This permits Renovate to pre-test branches, and when
+      we're comfortable will permit automatic merging if desired.
+    - Tell renovate where our actions templates are stored.
+
+commit 74724af8a732c3f7975b5dba5ec1348469fa32c2
+Author: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
+Date:   Sun Jan 15 20:54:07 2023 +0000
+
+    Lock file maintenance
+
+commit 3fddd25890434cfabedf86cf421d4121b669166f
+Merge: 8f9d87b0 3fa3a9c6
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Sun Jan 15 21:36:49 2023 +0100
+
+    Merge pull request #3060 from ChrisDenton/install-msvc
+
+    Improve Windows MSVC install instructions
+
+commit 8f9d87b0ae433951c67db3a138e1b4e12f190925
+Merge: d3733d08 b56c3bae
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Sun Jan 15 21:29:28 2023 +0100
+
+    Merge pull request #3147 from rust-lang/renovate/enum-map-2.x
+
+    Update Rust crate enum-map to 2.4.2
+
+commit d3733d08ea7870927ebdc0ab9fa56c11fc383f26
+Merge: 17e8fd88 871f7516
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Sun Jan 15 21:28:53 2023 +0100
+
+    Merge pull request #3149 from rust-lang/renovate/num_cpus-1.x
+
+    Update Rust crate num_cpus to 1.15
+
+commit 17e8fd88a290bf0114925f8a9514356cba8b3413
+Merge: e28015db 4e039720
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Sun Jan 15 21:27:13 2023 +0100
+
+    Merge pull request #3151 from rust-lang/renovate/rs_tracing-1.x
+
+    Update Rust crate rs_tracing to 1.1.0
+
+commit e28015dbb77fa66bfd45ce5de753070b889187af
+Merge: 59675e1c 46abd880
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Sun Jan 15 21:26:09 2023 +0100
+
+    Merge pull request #3157 from rust-lang/renovate/sequoia-openpgp-1.x
+
+    Update Rust crate sequoia-openpgp to 1.13
+
+commit 46abd8805bb63147b7d710271d29efba0aabfca4
+Author: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
+Date:   Sat Jan 14 03:13:09 2023 +0000
+
+    Update Rust crate sequoia-openpgp to 1.13
+
+commit 59675e1ca8357ba13dfc81dc7937a822bef49630
+Merge: 07187080 67b808cf
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Sat Jan 14 11:10:38 2023 +0800
+
+    Merge pull request #3150 from rust-lang/renovate/retry-1.x
+
+    Update Rust crate retry to 1.3.1
+
+commit 4e039720794e6614c9fd791e5ca1eb96b8f2cb40
+Author: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
+Date:   Fri Jan 13 21:24:50 2023 +0000
+
+    Update Rust crate rs_tracing to 1.1.0
+
+commit 67b808cf4f64e2db9d4183aafae9d3d8485f971e
+Author: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
+Date:   Fri Jan 13 21:23:06 2023 +0000
+
+    Update Rust crate retry to 1.3.1
+
+commit 871f7516eed5d813fa142c7737a0c1501348ce8c
+Author: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
+Date:   Fri Jan 13 21:21:23 2023 +0000
+
+    Update Rust crate num_cpus to 1.15
+
+commit b56c3bae1af8220bac49509b0403809c38a0d24d
+Author: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
+Date:   Fri Jan 13 21:17:52 2023 +0000
+
+    Update Rust crate enum-map to 2.4.2
+
+commit 07187080ab8387d93fe696fb162da384e102ac94
+Merge: 6286ed1c 0827b685
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Fri Jan 13 22:06:15 2023 +0100
+
+    Merge pull request #3155 from hi-rustin/rustin-patch-actions
+
+    Update GitHub Actions templates
+
+commit 0827b6851ab69552d003a2c58c43fed282b78ae7
+Author: hi-rustin &lt;rustin.liu@gmail.com&gt;
+Date:   Fri Jan 13 10:59:16 2023 +0800
+
+    Update GitHub Actions templates
+
+    Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;
+
+commit 6286ed1c9b15a2e67e4ea24b8543f8550d55c5d6
+Merge: 9c65814c 62420ee9
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Fri Jan 13 09:40:39 2023 +0800
+
+    Merge pull request #3152 from rbtcollins/renovate
+
+    Renovate tweaks
+
+commit 62420ee98dce97c65c51e5888fa6761ab7192376
+Merge: 81e6d8d2 9c65814c
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Thu Jan 12 23:12:37 2023 +0100
+
+    Merge remote-tracking branch 'upstream/master' into renovate/configure
+
+commit 9c65814cda2fc46438f102b697e64f909017b5a2
+Merge: cafafcc7 38926785
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Thu Jan 12 12:34:18 2023 +0100
+
+    Merge pull request #3154 from rust-lang/renovate/actions-cache-3.x
+
+    Update actions/cache action to v3
+
+commit 3892678503d13f09995365b9edb84aec04c25033
+Author: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
+Date:   Thu Jan 12 08:53:43 2023 +0000
+
+    Update actions/cache action to v3
+
+commit cafafcc7e50f07678ebf761533c49369da882a0e
+Merge: 2850e7e2 c69e6a2b
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Thu Jan 12 09:02:14 2023 +0100
+
+    Merge pull request #3121 from hi-rustin/rustin-patch-shell-check
+
+    Fix shell check warnings
+
+commit c69e6a2b3b6a3f38d140cbda53cd7783c20b869e
+Author: hi-rustin &lt;rustin.liu@gmail.com&gt;
+Date:   Thu Jan 12 09:55:05 2023 +0800
+
+    Add -x and enable SC1090
+
+    Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;
+
+commit 2bb6323997d912c99a14dadbf9b6f384a4a7b78a
+Author: hi-rustin &lt;rustin.liu@gmail.com&gt;
+Date:   Wed Dec 7 08:59:34 2022 +0800
+
+    Fix shell check warning
+
+    Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;
+
+commit 81e6d8d235fcbc3f5ff15f24be9ae2c373150697
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Wed Jan 11 08:51:48 2023 +0100
+
+    Renovate tweaks
+
+    - enable lockfile maintenance to update Cargo.lock without Cargo
+    - don't create PRs until checks have completed for the change
+    - wait 3 days for woops! on new releases
+    - prefer lockfile updates over changes to Cargo.toml
+
+    The last one I think is not working correctly for Cargo - not harmful,
+    just still more noise than we'd prefer - I'm working with renovate to
+    track this down.
+
+commit 2850e7e2959f6b4e3bc87ad4dbd0ff5d1f2d2889
+Merge: bb4bb658 2e78a842
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Tue Jan 10 11:48:25 2023 +0800
+
+    Merge pull request #3140 from rust-lang/renovate/anyhow-1.x
+
+    Update Rust crate anyhow to 1.0.68
+
+commit 2e78a8423fc9926f535a5b4e5fc491432fcdbc2e
+Author: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
+Date:   Tue Jan 10 01:40:15 2023 +0000
+
+    Update Rust crate anyhow to 1.0.68
+
+commit bb4bb658c559880b884a23470c5724e337d4d360
+Merge: 50acf670 0a3ed294
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Tue Jan 10 09:34:44 2023 +0800
+
+    Merge pull request #3139 from rbtcollins/renovate
+
+    Renovate configuration
+
+commit 0a3ed294c81ec8c19f497879e645fc51f5e222bd
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Mon Jan 9 19:57:00 2023 +0100
+
+    Tweak initial config
+
+commit c224936b2c4e4d3af95b88a8c30af9a72bdcd516
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Mon Jan 9 19:54:55 2023 +0100
+
+    Put renovate.json in a better place
+
+commit 50acf67074337ce99815a7e8e0c5e30cfcd1d073
+Merge: e0ffef93 1b823015
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Mon Jan 9 19:52:00 2023 +0100
+
+    Merge pull request #3071 from hi-rustin/rustin-patch-bump
+
+    Bump pulldown-cmark version to 0.9
+
+commit 5da2016ef8311f5cbc540985db8bfa75cd5dac8b
+Author: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
+Date:   Sun Jan 1 10:13:35 2023 +0000
+
+    Add renovate.json
+
+commit e0ffef93271025ab420eaf0031c42500da93b06a
+Merge: 5f52d5cf 7606c1b0
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Sun Jan 1 15:31:45 2023 +0800
+
+    Merge pull request #3127 from noritada/fix/doc-command-rustdoc-opt-description-improvements
+
+    Improve a help message for `rustup doc --rustdoc`
+
+commit 5f52d5cf11685fb6a60e70113cfb07b130708529
+Merge: a223e5ad 4fde887e
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Thu Dec 29 09:42:15 2022 +0800
+
+    Merge pull request #3126 from illume/typo
+
+    Fix a typo
+
+commit 7606c1b0fcb00cdb9a48a31d7dd853f63a29a532
+Author: Noritada Kobayashi &lt;noritada.kobayashi@gmail.com&gt;
+Date:   Tue Dec 27 15:11:21 2022 +0900
+
+    Improve a help message for `doc --rustdoc`
+
+commit a223e5ad6549e5fb0c56932fd0e79af9de898ad4
+Merge: 3331f34c 7bfbd3b9
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Tue Dec 27 10:18:29 2022 +0800
+
+    Merge pull request #3067 from nicholasbishop/bishop-specify-additive
+
+    Add details of each setting in the toolchain file
+
+commit 4fde887e72b89966c8458f516703955ba2a1364f
+Author: René Dudfield &lt;renedudfield@microsoft.com&gt;
+Date:   Sun Dec 25 05:43:00 2022 +0100
+
+    Fix typo
+
+commit 3331f34c01474bf216c99a1b1706725708833de1
+Merge: b3d53252 e7395b8f
+Author: Robert Collins &lt;robertc@robertcollins.net&gt;
+Date:   Mon Dec 5 13:45:54 2022 +0100
+
+    Merge pull request #3096 from hi-rustin/rustin-patch-clippy
+
+    Clippy satisfying changes - unneeded &amp; and &amp;*.
+
+commit b3d53252ec06635da4b8bd434a82e2e8b6480485
+Merge: db9afe10 fe4bec0b
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Thu Oct 27 21:28:38 2022 +0800
+
+    Merge pull request #3089 from darkyshiny/curl-resume-support
+
+    Add automatic resume flag when retrying download with curl
+
+commit e7395b8f08cd22672d52b762141cfa70fcd91ac3
+Author: hi-rustin &lt;rustin.liu@gmail.com&gt;
+Date:   Wed Oct 19 10:50:50 2022 +0800
+
+    Use auto deref
+
+    Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;
+
+commit fe4bec0bd4bf8d801911a5c476aa6a07c97dba48
+Author: darkyshiny &lt;dev@darkkeh.dev&gt;
+Date:   Wed Oct 26 21:09:34 2022 +0200
+
+    Add automatic resume flag when retrying download with curl
+
+commit db9afe10ccd422a85ab2846b654fdf24f5350e27
+Merge: 732feb8a 000b15e1
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Thu Oct 20 21:37:56 2022 +0800
+
+    Merge pull request #3091 from x3ro/add-proxies-to-terminology
+
+    Add "Proxy" to terminology page
+
+commit 000b15e193ec370457b6cc0b27cda4feed36e99f
+Author: Lucas &lt;nope@nope.local&gt;
+Date:   Fri Oct 14 13:44:15 2022 +0200
+
+    Add "Proxy" to terminology page
+
+    Fixes #3086
+
+commit 9d35fe07b131a3421eff984371337e0721de6394
+Author: hi-rustin &lt;rustin.liu@gmail.com&gt;
+Date:   Wed Oct 19 10:45:15 2022 +0800
+
+    Remove needless borrow
+
+    Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;
+
+commit 732feb8a733a6ad5c56cd9b637b501e8fa54491e
+Merge: b0adb0c0 f7845522
+Author: 二手掉包工程师 &lt;rustin.liu@gmail.com&gt;
+Date:   Thu Oct 13 10:20:36 2022 +0800
+
+    Merge pull request #3073 from LucioFranco/lucio/home-update
+
+    Update home usage to new env fn
+
+commit f7845522a8f0c5d251e5ec44bec8faf665b0b7cf
+Author: Lucio Franco &lt;luciofranco14@gmail.com&gt;
+Date:   Tue Oct 11 10:11:08 2022 -0400
+
+    Update to home 0.5.4
+
+commit 53b31bc0c0642b077a4bf3f8f3847a156fb34c64
+Author: Lucio Franco &lt;luciofranco14@gmail.com&gt;
+Date:   Thu Sep 22 10:42:20 2022 -0400
+
+    Update code to use `home::env as home` as suggested
+
+commit 7bfbd3b96c29898de001cbda7730fa440d35bd3b
+Author: Nicholas Bishop &lt;nbishop@nbishop.net&gt;
+Date:   Tue Sep 6 09:49:04 2022 -0400
+
+    Add details of each setting in the toolchain file
+
+    The format of the new section is modeled after the cargo docs, for example:
+    https://doc.rust-lang.org/cargo/reference/profiles.html#profile-settings
+
+    This is mostly a reorganization of the existing content to make it
+    easier to scan for relevant details, but a few new details have also
+    been added:
+
+    1. For `channel`, the format is now explained in the same format as in
+       concepts/toolchains.md, but with the more limited form that
+       `rust-toolchain.toml` accepts. This is based on the text that was
+       here previously; I haven't verified if the code is actually this
+       strict.
+    2. The `profile` section mentions that the default profile is not
+       necessarily the profile named `default`, which is subtle detail that
+       can be confusing.
+    3. The `components` section notes that the list is additive with the
+       profile's list of components.
+    4. The `targets` field is now documented, previously it wasn't mentioned
+       other than to say it's ignored with `path`.
+
+commit 1b7e2639db157d6a123b1456e0587ed6d8cd3c5a
+Author: Lucio Franco &lt;luciofranco14@gmail.com&gt;
+Date:   Wed Sep 21 10:11:40 2022 -0400
+
+    Update home usage to new env fn
+
+commit 1b823015e6913e0dd72919824d56061372fdbd59
+Author: hi-rustin &lt;rustin.liu@gmail.com&gt;
+Date:   Tue Sep 20 21:41:05 2022 +0800
+
+    Bump pulldown-cmark version to 0.9
+
+    Signed-off-by: hi-rustin &lt;rustin.liu@gmail.com&gt;
+
+commit 3fa3a9c6f4cc1e29054b8adfffe61c2f590e61f9
+Author: Chris Denton &lt;ChrisDenton@users.noreply.github.com&gt;
+Date:   Tue Aug 16 14:53:40 2022 +0100
+
+    Apply suggestions from code review
+
+    Co-authored-by: Eric Huss &lt;eric@huss.org&gt;
+
+commit 15609c31ee410ba1eb3f5ad14513ce982a683c5c
+Author: Chris Denton &lt;christophersdenton@gmail.com&gt;
+Date:   Tue Aug 16 04:37:59 2022 +0100
+
+    Improve Windows MSVC install instructions</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Feb 2023, 15:09:01</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
                                         <span class="issue">#3064 Bump `clap` to 3.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by zohnannor in <span class="repo">rust-lang/rustup</span></div>
-                                    <div class="comment">
-                                        @hi-rustin yes, pretty busy right now, I'll try to come back to this Soon™.
-@jyn514 to clarify, you're suggesting to use
-                                        <code>trycmd</code>
-                                        just to make a diff between old and a new output and then remove
-                                        <code>trycmd</code>
-                                        or to integrate it in the project's tests suite and leave it there? I could do either. Before that, to see the output diff, I made a little script that wrote output of every
-                                        <code>$ rustup  --help</code>
-                                        to a file and used that on stable
-                                        <code>rustup</code>
-                                        and on the new one, then git-diff'ed it :^)
-                                    </div>
+                                    <div>opened  in <span class="repo">rust-lang/rustup</span></div>
                                 </div>
-                                <div class="timestamp">8 Feb 2023, 11:29:12</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">zohnannor/derive_more</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#144caea</div>
-                                        <div class="message">Add changelog entry</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Feb 2023, 12:33:58</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">zohnannor/derive_more</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0a16ef3</div>
-                                        <div class="message">Apply corrections</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Feb 2023, 12:14:34</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#238 Fix generics tokenization in `Error` derive macro</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by zohnannor in <span class="repo">JelteF/derive_more</span></div>
-                                    <div class="comment">Thank you! I'll make corrections and re-request a review when I can.</div>
-                                </div>
-                                <div class="timestamp">7 Feb 2023, 02:36:01</div>
+                                <div class="timestamp">11 Feb 2023, 15:08:25</div>
                             </section>
                         </div>
                     </section>
@@ -3916,7 +4886,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.6789869952087666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.7638603696098607 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4059,7 +5029,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.50m out of 375m repositories</span>
+                                    <span class="gh">ranked 1.51m out of 376m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
@@ -4153,7 +5123,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Feb 2023, 23:11:06 (timezone Europe/Moscow) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 11 Feb 2023, 23:10:07 (timezone Europe/Moscow) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
