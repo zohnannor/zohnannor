@@ -1,6 +1,6 @@
 # hi
 
-I'm 21 y.o. programmer from Russia...  
+I'm 22 y.o. programmer from Russia...  
 Idk what else to say, check out my profile readme!
 
 [![zohnannor's github stats](https://readme-stats.clckblog.space/api?username=zohnannor&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/zohnannor)
