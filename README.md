@@ -6,9 +6,8 @@ Idk what else to say, check out my profile readme!
 [![zohnannor's github stats](https://readme-stats.clckblog.space/api?username=zohnannor&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/zohnannor)
 [![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=zohnannor&layout=compact&hide=css,html&langs_count=10&theme=dark&hide_border=true&count_private=true)](https://github.com/zohnannor)
 
-![](https://komarev.com/ghpvc/?username=zohnannor&color=blueviolet)
+![views](https://komarev.com/ghpvc/?username=zohnannor&color=blueviolet)
 [![wakatime](https://wakatime.com/badge/user/9bc1b5cc-879a-4309-9813-62a18622c2a3.svg)](https://wakatime.com/@zohnannor)
-
 
 <details>
   <summary>social</summary>
@@ -19,6 +18,7 @@ Idk what else to say, check out my profile readme!
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Zohnannor)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/zohnannor/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youTube&logoColor=white)](https://www.youtube.com/c/Zohnannor)
+
 </details>
 
 ## my stack
@@ -56,21 +56,21 @@ want to learn / learning rn:
 
 [![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=Scala&logoColor=white)](https://www.scala-lang.org/)
 [![Zig](https://img.shields.io/badge/-Zig-orange?style=flat-square&logo=Zig&logoColor=white)](https://ziglang.org/)
-[![V](https://img.shields.io/badge/-V-fefefe?style=flat-square&logo=V&logoColor=blue)](https://vlang.io/)
 [![Haskell](https://img.shields.io/badge/-Haskell-ffffff?style=flat-square&logo=Haskell&logoColor=5E5086)](https://www.haskell.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-6852DB?style=flat-square&logo=kotlin&logoColor=F6750D)](https://kotlinlang.org/)
 [![Go](https://img.shields.io/badge/-Go-fefefe?style=flat-square&logo=go&logoColor=00ACD7)](https://golang.org/)
 [![Nim](https://img.shields.io/badge/-Nim-171921?style=flat-square&logo=nim&logoColor=FFE953)](https://nim-lang.org/)
-[![Dart](https://img.shields.io/badge/-Dart-1C2834?style=flat-square&logo=dart&logoColor=2CB7F6)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/-Flutter-FFFFFF?style=flat-square&logo=flutter&logoColor=5BC8F8)](https://flutter.dev/)
-[![D](https://img.shields.io/badge/-D-FFFFFF?style=flat-square&logo=D&logoColor=5BC8F8)](https://dlang.org/)
 
 <!-- not really -->
 <!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]() -->
+<!-- [![V](https://img.shields.io/badge/-V-fefefe?style=flat-square&logo=V&logoColor=blue)](https://vlang.io/) -->
+<!-- [![Dart](https://img.shields.io/badge/-Dart-1C2834?style=flat-square&logo=dart&logoColor=2CB7F6)](https://dart.dev/) -->
+<!-- [![Flutter](https://img.shields.io/badge/-Flutter-FFFFFF?style=flat-square&logo=flutter&logoColor=5BC8F8)](https://flutter.dev/) -->
+<!-- [![D](https://img.shields.io/badge/-D-FFFFFF?style=flat-square&logo=D&logoColor=5BC8F8)](https://dlang.org/) -->
 
 <details>
     <summary>other stuff</summary>
-  
+
 ### javascript libraries & tools
 
 [![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white)](https://babeljs.io/)
@@ -89,18 +89,22 @@ want to learn / learning rn:
 
 ### main programs & tools
 
-[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual%2Dstudio%2Dcode&logoColor=white)](https://code.visualstudio.com/)
+[![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual%2Dstudio%2Dcode&logoColor=white)](https://code.visualstudio.com/)
 [![Google Chrome](https://img.shields.io/badge/-Google_Chrome-4285F4?style=flat-square&logo=google%2Dchrome&logoColor=white)](https://www.google.com/intl/en/chrome/)
 [![Firefox Browser](https://img.shields.io/badge/-Firefox_Browser-FF7139?style=flat-square&logo=firefox%2Dbrowser&logoColor=white)](https://www.mozilla.org/en/firefox/new/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://prettier.io/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
 [![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
-[![dwm](https://img.shields.io/badge/-dwm-1177AA?style=flat-square&logo=dwm&logoColor=white)](https://dwm.suckless.org/)
+[![KDE](https://img.shields.io/badge/-KDE-1D99F3?style=flat-square&logo=KDE&logoColor=white)](https://kde.org/plasma-desktop/)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powerShell&logoColor=white)
-[![Sublime Text](https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat-square&logo=sublime%2Dtext&logoColor=white)](https://www.sublimetext.com/)
+![alacritty](https://img.shields.io/badge/-alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
 [![Neovim](https://img.shields.io/badge/-Neovim-116EAD?style=flat-square&logo=neovim&logoColor=5B973B)](https://neovim.io/)
 [![Vim](https://img.shields.io/badge/-Vim-007F00?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
+
+<!-- not anymore -->
+<!-- [![dwm](https://img.shields.io/badge/-dwm-1177AA?style=flat-square&logo=dwm&logoColor=white)](https://dwm.suckless.org/) -->
+<!-- [![Sublime Text](https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat-square&logo=sublime%2Dtext&logoColor=white)](https://www.sublimetext.com/) -->
 
 <!-- not yet lol -->
 <!-- [![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white)]() -->
@@ -135,28 +139,49 @@ want to learn / learning rn:
 
 ### hardware
 
-[![Intel](https://img.shields.io/badge/-Intel-0071C5?style=flat-square&logo=intel&logoColor=white)](https://www.intel.com/)
 [![Logitech](https://img.shields.io/badge/-Logitech-00B8FC?style=flat-square&logo=logitech&logoColor=white)](https://www.logitech.com/en-us/)
 [![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nVIDIA&logoColor=white)](https://www.nvidia.com/en-us/)
 [![PlayStation](https://img.shields.io/badge/-PlayStation-003791?style=flat-square&logo=playStation&logoColor=white)](https://www.playstation.com/en-us/)
 ![PlayStation 4](https://img.shields.io/badge/-PlayStation_4-003791?style=flat-square&logo=playStation%2D4&logoColor=white)
 [![Qualcomm](https://img.shields.io/badge/-Qualcomm-3253DC?style=flat-square&logo=qualcomm&logoColor=white)](https://www.qualcomm.com/)
 
-smartphone
+<!-- [![Intel](https://img.shields.io/badge/-Intel-0071C5?style=flat-square&logo=intel&logoColor=white)](https://www.intel.com/) -->
+
+#### smartphone
+
 <!-- ![Xiaomi Redmi 4X](https://img.shields.io/badge/-Xiaomi-FA6709?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/) -->
+<!-- [![OnePlus 6](https://img.shields.io/badge/-OnePlus-F5010C?style=flat-square&logo=onePlus&logoColor=white)](https://www.oneplus.com/) -->
 <!-- finally -->
-[![OnePlus 6](https://img.shields.io/badge/-OnePlus-F5010C?style=flat-square&logo=onePlus&logoColor=white)](https://www.oneplus.com/)
+
+[![Samsung Galaxy S23 Ultra](https://img.shields.io/badge/-samsung-1428A0?style=flat-square&logo=samsung&logoColor=white)](https://www.oneplus.com/)
+
+#### PC specs :zany_face:
+
+|        Part | Product                                                                                                                                                                                                                                   |
+| ----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|         CPU | AMD Ryzen 9 7950X [![AMD](https://img.shields.io/badge/-AMD-ED1C24?style=flat-square&logo=amd&logoColor=white)](https://www.amd.com/en/products/cpu/amd-ryzen-9-7950x)                                                                    |
+|         GPU | MSI Nvidia GeForce RTX 4090 GAMING X TRIO 24G [![NVIDIA](https://img.shields.io/badge/-nvidia-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.msi.com/Graphics-Card/GeForce-RTX-4090-GAMING-X-TRIO-24G/Overview)       |
+|         MBD | Asus ROG Strix X670E-E Gaming WiFi [![Asus](https://img.shields.io/badge/-Asus_ROG-FF0029?style=flat-square&logo=republicofgamers&logoColor=white)](https://rog.asus.com/motherboards/rog-strix/rog-strix-x670e-e-gaming-wifi-model)      |
+|         RAM | Kingston FURY Beast DDR5 RGB (32x2) [![Kingston](https://img.shields.io/badge/-Kingston-000000?style=flat-square&logo=kingstontechnology&logoColor=white)](https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr5-rgb-memory) |
+|        NVMe | 2000GB SSD M.2 Samsung 980 Pro [![Samsung](https://img.shields.io/badge/-Samsung-1428A0?style=flat-square&logo=Samsung&logoColor=white)](#)                                                                                               |
+|        Case | Corsair 5000D Airflow Black [![Corsair](https://img.shields.io/badge/-Corsair-000000?style=flat-square&logo=corsair&logoColor=white)](#)                                                                                                  |
+|         PSU | be quiet! DARK POWER 13 1000W [![be quiet!](https://img.shields.io/badge/-be_quiet!-FFA500?style=flat-square&logo=bequiet&logoColor=white)](https://www.bequiet.com/en/powersupply/4046)                                                  |
+|        Fans | NZXT F120 RGB DUO Triple Pack [![NZXT](https://img.shields.io/badge/-NZXT-000000?style=flat-square&logo=nzxt&logoColor=white)](https://nzxt.com/product/f120-rgb-duo-triple-pack)                                                         |
+| CPU cooling | NZXT Kraken Elite 360 RGB [![NZXT](https://img.shields.io/badge/-NZXT-000000?style=flat-square&logo=nzxt&logoColor=white)](https://nzxt.com/product/kraken-360-elite-rgb)                                                                 |
+|     Monitor | 27" ASUS ROG SWIFT PG279QM 240Hz [![ASUS](https://img.shields.io/badge/-Asus_ROG-FF0029?style=flat-square&logo=republicofgamers&logoColor=white)](#)                                                                                      |
+|    Keyboard | Ducky One 2 Mini RGB [![Ducky](https://img.shields.io/badge/-Ducky-000000?style=flat-square&logo=ducky&logoColor=white)](#)                                                                                                               |
+|       Mouse | Logitech G502 Hero [![Logitech](https://img.shields.io/badge/-Logitech-00B8FC?style=flat-square&logo=logitech&logoColor=white)](#)                                                                                                        |
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zohnannor&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=zohnannor&theme=dark)](https://wakatime.com/@zohnannor)  
 [![zohnannor's github activity graph](https://activity-graph.herokuapp.com/graph?username=zohnannor&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-  
+
 <p align="center">
-	<a href="https://profile.codersrank.io/user/zohnannor#Tech%20Skills">
-		<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=zohnannor&labels=true&legend=true&tooltip=true&branding=false&show-other-skills=true&bg=0D1117">
-	</a>
+ <a href="https://profile.codersrank.io/user/zohnannor#Tech%20Skills">
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=zohnannor&labels=true&legend=true&tooltip=true&branding=false&show-other-skills=true&bg=0D1117">
+ </a>
 </p>
 
 ![](./github-metrics.svg)
