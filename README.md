@@ -174,7 +174,7 @@ want to learn / learning rn:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zohnannor&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=zohnannor&theme=dark)](https://wakatime.com/@zohnannor)  
-[![zohnannor's github activity graph](https://activity-graph.herokuapp.com/graph?username=zohnannor&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![zohnannor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zohnannor&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
