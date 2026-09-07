@@ -1,6 +1,6 @@
 # hi
 
-I'm 24 y.o. programmer from Russia...  
+I'm 25 y.o. programmer from Russia...  
 Idk what else to say, check out my profile readme!
 
 <!-- https://github.com/anuraghazra/github-readme-stats/issues/3851#issuecomment-2237316047 -->
